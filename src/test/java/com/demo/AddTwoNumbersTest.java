@@ -1,6 +1,8 @@
-import com.demo.calculator;
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+package com.demo.calculator;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 public class AddTwoNumbersTest {
     @Test
